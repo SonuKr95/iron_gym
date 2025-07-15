@@ -134,7 +134,7 @@ header {
       rgb(0, 0, 0) 20%,
       rgba(255, 255, 255, 0.05)
     ),
-    url(img/Imcage.png);
+    url(../img/Imcage.png);
   background-size: cover;
   /* background-repeat: no-repeat; */
   /* height: 100vh; */
