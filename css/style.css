@@ -355,7 +355,7 @@ experience section
   overflow: hidden;
   /* background: #C33764; */
   background: linear-gradient(to right, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.8)),
-    url(img/Image.png);
+    url(../img/Image.png);
 
   /* stroke: #000; */
   background-size: cover;
@@ -429,7 +429,7 @@ experience section
       rgba(0, 0, 0, 0.5),
       rgba(151, 151, 150, 0.1)
     ),
-    url(./img/edgar-chaparro-sHfo3WOgGTU-unsplash.jpg);
+    url(../img/edgar-chaparro-sHfo3WOgGTU-unsplash.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   /* background-position: center; */
