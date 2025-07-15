@@ -134,7 +134,7 @@ header {
       rgb(0, 0, 0) 20%,
       rgba(255, 255, 255, 0.05)
     ),
-    url(./img/Imcage.png);
+    url(img/Imcage.png);
   background-size: cover;
   /* background-repeat: no-repeat; */
   /* height: 100vh; */
@@ -355,7 +355,7 @@ experience section
   overflow: hidden;
   /* background: #C33764; */
   background: linear-gradient(to right, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.8)),
-    url(./img/Image.png);
+    url(img/Image.png);
 
   /* stroke: #000; */
   background-size: cover;
